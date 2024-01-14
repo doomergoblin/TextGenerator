@@ -1,0 +1,3 @@
+C:/spare-time-coding/doomergoblin/generate_text/cmake-build-debug/CMakeFiles/generate_text.dir
+C:/spare-time-coding/doomergoblin/generate_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/spare-time-coding/doomergoblin/generate_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
